@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cp/Mb3FSHDuJ4YBT8JSIJGRxl1jaYDHfr9sdrvW1OrZFgpzMrDr2blAd1C2dHlg4WHUzm8o8Y6drDacyoB80tw==",
+  "dgSpecHash": "6IueuOz8IsFJWaAoZ8pvdzNbyxmyhJ4J+2zmwsLT4rUf48h9y1/DUOYNWbdVtRjBW2r8MPSTtTBVl/tiaHDVSA==",
   "success": true,
-  "projectFilePath": "C:\\Courses\\CSharpForTestAutomationCourse\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Courses\\ConsoleApp\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
